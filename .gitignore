@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+__pycache__/
+*.save
+*.h5
+*.keras
+*.json
+*.csv
+
